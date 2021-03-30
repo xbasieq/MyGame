@@ -1,3 +1,3 @@
 # MyGame
-My First Game
+My First Game - 
 Please use folder "NewGame"
